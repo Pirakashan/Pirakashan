@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 
 - 💼 **Software Engineer** passionate about building scalable full-stack applications and clean backend architectures  
-- 🚀 Quick learner, strong problem-solver, and collaborative team player  
+- 🚀 Quick learner, strong problem-solver, and collaborative team  
 
 
 ---
