@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pirakashan</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | Quick Learner</h3>
+<h3 align="center">Software Engineer | Quick Learner</h3>
 
 <p align="center">
   <a href="https://https://www.linkedin.com/in/pirakash1999//in/YOUR_LINKEDIN" target="_blank">
@@ -16,7 +16,7 @@
 
 - 💼 **Software Engineer** passionate about building scalable full-stack applications and clean backend architectures  
 - 🚀 Quick learner, strong problem-solver, and collaborative team player  
-- 🧠 Continuously exploring **AI, Cloud Computing, and Modern Web Technologies**
+
 
 ---
 
