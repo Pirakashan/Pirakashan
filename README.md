@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Quick Learner</h3>
 
 <p align="center">
-  <a href="https://https://www.linkedin.com/in/pirakash1999//in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://https://www.linkedin.com/in/pirakash1999" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Pirakashan" target="_blank">
